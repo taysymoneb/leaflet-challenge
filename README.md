@@ -1,1 +1,2 @@
 # leaflet-challenge
+This repo conatins the contents used to do the module 15 challenge that creates an interactive earthquake visualization using leaflet. The dataset was obtained from an API call to the USGS GeoJson feed. Javascript and html were used to populate the website and create a map of seismic activity. The radius of the earthquakes were determined by the magnitude and the color index was determined using information about the earthquake depths. Each marker includes a popup event with specific information about the earthquake.
